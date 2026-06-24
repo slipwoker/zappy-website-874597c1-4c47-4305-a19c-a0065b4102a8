@@ -2,13 +2,13 @@
 
 A business focused on cups or glassware products. The exact nature — whether it's retail, custom printing, handmade artisan work, or wholesale — is not yet specified.
 
-Source: https://suntiu-874597c1.zappy5.app
+Source: https://example.com
 
 ---
 
 ## גלו סוגי כוסות שתייה שישדרגו כל לגימה — Suntiu
 
-URL: https://suntiu-874597c1.zappy5.app
+URL: https://example.com
 Description: מחפשים כוס שתייה מושלמת? ב-Suntiu תמצאו מגוון סוגי כוסות שתייה מעוצבות לכל משקה ואירוע. התאמה אישית, איכות גבוהה ועיצוב שמותיר רושם. בואו לגלות את הכוס שתהפוך כל שתייה לחוויה.
 
 גלו סוגי כוסות שתייה שישדרגו כל לגימה — Suntiu
@@ -418,7 +418,7 @@ Description: מחפשים כוס שתייה מושלמת? ב-Suntiu תמצאו �
 
 ## אומנות בזכוכית: תחריט והדפסה מותאמת אישית — Suntiu
 
-URL: https://suntiu-874597c1.zappy5.app/craftsmanship
+URL: https://example.com/craftsmanship
 Description: מאחורי כל כוס עומדת אומנות. הכירו את תהליכי התחריט וההדפסה המותאמים אישית שלנו, שהופכים כוסות זכוכית ליצירות מופת. גלו את הקסם שבאומנות הזכוכית והזמינו עיצוב ייחודי משלכם.
 
 אומנות בזכוכית: תחריט והדפסה מותאמת אישית — Suntiu
@@ -807,7 +807,7 @@ Description: מאחורי כל כוס עומדת אומנות. הכירו את �
 
 ## מתנות ואירוח מפנק: הרשימו עם כלי שתייה יוקרתיים — Suntiu
 
-URL: https://suntiu-874597c1.zappy5.app/gifting-hospitality
+URL: https://example.com/gifting-hospitality
 Description: מחפשים מתנה מקורית או רוצים לארח ברמה אחרת? קולקציית המתנות והאירוח של Suntiu מציעה כוסות זכוכית יוקרתיות, סטים מעוצבים ואפשרויות התאמה אישית. הפכו כל אירוע לבלתי נשכח עם המתנה המושלמת.
 
 מתנות ואירוח מפנק: הרשימו עם כלי שתייה יוקרתיים — Suntiu
@@ -1218,7 +1218,7 @@ Suntiu מלווה אתכם ברגעים החשובים — מאירוח ביתי
 
 ## צרו איתנו קשר והתחילו לעצב את הכוס המושלמת — Suntiu
 
-URL: https://suntiu-874597c1.zappy5.app/contact
+URL: https://example.com/contact
 Description: יש לכם רעיון לכוס מעוצבת? צרו קשר עם המומחים של Suntiu להדפסה ותחריט זכוכית מותאמים אישית. אנחנו כאן כדי להפוך את החזון שלכם למציאות. השאירו פרטים ונתחיל ביצירה הבאה שלכם.
 
 צרו איתנו קשר והתחילו לעצב את הכוס המושלמת — Suntiu
@@ -1527,7 +1527,7 @@ Description: יש לכם רעיון לכוס מעוצבת? צרו קשר עם ה
 
 ## מוצרים
 
-URL: https://suntiu-874597c1.zappy5.app/products
+URL: https://example.com/products
 Description: המוצרים שלנו - Suntiu
 
 מוצרים - Suntiu
@@ -1770,7 +1770,7 @@ Description: המוצרים שלנו - Suntiu
 
 ## עגלת קניות
 
-URL: https://suntiu-874597c1.zappy5.app/cart
+URL: https://example.com/cart
 Description: עגלת הקניות שלך
 
 עגלת קניות - Suntiu
@@ -1989,7 +1989,7 @@ Description: עגלת הקניות שלך
 
 ## תשלום
 
-URL: https://suntiu-874597c1.zappy5.app/checkout
+URL: https://example.com/checkout
 Description: תשלום
 
 תשלום - Suntiu
@@ -2394,7 +2394,7 @@ Description: תשלום
 
 ## התחברות
 
-URL: https://suntiu-874597c1.zappy5.app/login
+URL: https://example.com/login
 Description: התחברות לקוחות
 
 התחברות - Suntiu
@@ -2620,7 +2620,7 @@ Description: התחברות לקוחות
 
 ## החשבון שלי
 
-URL: https://suntiu-874597c1.zappy5.app/account
+URL: https://example.com/account
 Description: החשבון שלי
 
 החשבון שלי - Suntiu
@@ -3001,7 +3001,7 @@ Description: החשבון שלי
 
 ## ההזמנה התקבלה!
 
-URL: https://suntiu-874597c1.zappy5.app/order-success
+URL: https://example.com/order-success
 Description: תודה על ההזמנה
 
 ההזמנה התקבלה! - Suntiu
@@ -3244,7 +3244,7 @@ Description: תודה על ההזמנה
 
 ## מדיניות החזרות
 
-URL: https://suntiu-874597c1.zappy5.app/return-policy
+URL: https://example.com/return-policy
 Description: מדיניות החזרת מוצרים - זכויותיכם להחזרה והחלפה בהתאם לחוק
 
 מדיניות החזרות - Suntiu
@@ -3516,7 +3516,7 @@ Suntiu מחויבת לשביעות רצון לקוחותיה. מדיניות ז�
 
 ## פרטי המוצר
 
-URL: https://suntiu-874597c1.zappy5.app/product/:slug
+URL: https://example.com/product/:slug
 Description: פרטי המוצר - Suntiu
 
 פרטי המוצר - Suntiu
@@ -3737,7 +3737,7 @@ Description: פרטי המוצר - Suntiu
 
 ## מוצרים
 
-URL: https://suntiu-874597c1.zappy5.app/category/:slug
+URL: https://example.com/category/:slug
 Description: מוצרים - Suntiu
 
 מוצרים - Suntiu
@@ -3982,7 +3982,7 @@ Description: מוצרים - Suntiu
 
 ## מדיניות פרטיות
 
-URL: https://suntiu-874597c1.zappy5.app/privacy
+URL: https://example.com/privacy
 Description: מדיניות הפרטיות שלנו - כיצד אנו אוספים, משתמשים ומגנים על המידע שלכם
 
 מדיניות פרטיות
@@ -4245,7 +4245,7 @@ Suntiu ("החברה", "אנו", "שלנו") מחויבת להגן על פרטי�
 
 ## הצהרת נגישות
 
-URL: https://suntiu-874597c1.zappy5.app/accessibility
+URL: https://example.com/accessibility
 Description: הצהרת הנגישות שלנו - מחויבותנו לנגישות דיגיטלית
 
 הצהרת נגישות
@@ -4517,7 +4517,7 @@ Suntiu מחויבת להנגיש את השירותים לכלל הציבור. א
 
 ## תנאי שימוש
 
-URL: https://suntiu-874597c1.zappy5.app/terms
+URL: https://example.com/terms
 Description: תנאי השימוש באתר - הזכויות והחובות של המשתמשים
 
 תנאי שימוש
@@ -4808,7 +4808,7 @@ Suntiu מספקת Glassware / Drinkware דרך האתר. השירותים כפו
 
 ## תודה רבה | Suntiu
 
-URL: https://suntiu-874597c1.zappy5.app/thank-you
+URL: https://example.com/thank-you
 Description: תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם מידע נוסף על סוגי כוסות שתייה ומוצרי זכוכית בהתאמה אישית.
 
 תודה רבה | Suntiu

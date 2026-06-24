@@ -7,69 +7,69 @@
 ## Pages
 
 ### בית
-https://suntiu-874597c1.zappy5.app
+https://example.com
 מחפשים כוס שתייה מושלמת? ב-Suntiu תמצאו מגוון סוגי כוסות שתייה מעוצבות לכל משקה ואירוע. התאמה אישית, איכות גבוהה ועיצוב שמותיר רושם. בואו לגלות את הכוס שתהפוך כל שתייה לחוויה.
 
 ### אומנות
-https://suntiu-874597c1.zappy5.app/craftsmanship
+https://example.com/craftsmanship
 מאחורי כל כוס עומדת אומנות. הכירו את תהליכי התחריט וההדפסה המותאמים אישית שלנו, שהופכים כוסות זכוכית ליצירות מופת. גלו את הקסם שבאומנות הזכוכית והזמינו עיצוב ייחודי משלכם.
 
 ### מתנות ואירוח
-https://suntiu-874597c1.zappy5.app/gifting-hospitality
+https://example.com/gifting-hospitality
 מחפשים מתנה מקורית או רוצים לארח ברמה אחרת? קולקציית המתנות והאירוח של Suntiu מציעה כוסות זכוכית יוקרתיות, סטים מעוצבים ואפשרויות התאמה אישית. הפכו כל אירוע לבלתי נשכח עם המתנה המושלמת.
 
 ### צור קשר
-https://suntiu-874597c1.zappy5.app/contact
+https://example.com/contact
 יש לכם רעיון לכוס מעוצבת? צרו קשר עם המומחים של Suntiu להדפסה ותחריט זכוכית מותאמים אישית. אנחנו כאן כדי להפוך את החזון שלכם למציאות. השאירו פרטים ונתחיל ביצירה הבאה שלכם.
 
 ### Products
-https://suntiu-874597c1.zappy5.app/products
+https://example.com/products
 המוצרים שלנו - Suntiu
 
 ### Cart
-https://suntiu-874597c1.zappy5.app/cart
+https://example.com/cart
 עגלת הקניות שלך
 
 ### Checkout
-https://suntiu-874597c1.zappy5.app/checkout
+https://example.com/checkout
 תשלום
 
 ### Login
-https://suntiu-874597c1.zappy5.app/login
+https://example.com/login
 התחברות לקוחות
 
 ### Account
-https://suntiu-874597c1.zappy5.app/account
+https://example.com/account
 החשבון שלי
 
 ### Order Success
-https://suntiu-874597c1.zappy5.app/order-success
+https://example.com/order-success
 תודה על ההזמנה
 
 ### Product Detail
-https://suntiu-874597c1.zappy5.app/product/:slug
+https://example.com/product/:slug
 פרטי המוצר - Suntiu
 
 ### Category
-https://suntiu-874597c1.zappy5.app/category/:slug
+https://example.com/category/:slug
 מוצרים - Suntiu
 
 ### תודה רבה | Suntiu
-https://suntiu-874597c1.zappy5.app/thank-you
+https://example.com/thank-you
 תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם מידע נוסף על סוגי כוסות שתייה ומוצרי זכוכית בהתאמה אישית.
 
 ## Legal & Policy
 
 ### Privacy Policy
-https://suntiu-874597c1.zappy5.app/privacy
+https://example.com/privacy
 Information about how user data is collected, stored, and protected.
 
 ### Terms & Conditions
-https://suntiu-874597c1.zappy5.app/terms
+https://example.com/terms
 Legal terms describing service usage, rights, and policies.
 
 ### Accessibility Statement
-https://suntiu-874597c1.zappy5.app/accessibility
+https://example.com/accessibility
 Information about WCAG compliance and accessibility features.
 
 ---
@@ -97,8 +97,8 @@ Glassware / Drinkware
 
 # Machine-readable feeds
 
-- Sitemap (XML): https://suntiu-874597c1.zappy5.app/sitemap.xml
-- Robots: https://suntiu-874597c1.zappy5.app/robots.txt
-- Flattened page text (for LLMs): https://suntiu-874597c1.zappy5.app/llms-full.txt
-- Products (JSON): https://suntiu-874597c1.zappy5.app/products.json
-- Products (Google Merchant RSS): https://suntiu-874597c1.zappy5.app/product-feed.xml
+- Sitemap (XML): https://example.com/sitemap.xml
+- Robots: https://example.com/robots.txt
+- Flattened page text (for LLMs): https://example.com/llms-full.txt
+- Products (JSON): https://example.com/products.json
+- Products (Google Merchant RSS): https://example.com/product-feed.xml
