@@ -1,0 +1,104 @@
+# Suntiu — Generative Engine Optimization Map
+
+> A business focused on cups or glassware products. The exact nature — whether it's retail, custom printing, handmade artisan work, or wholesale — is not yet specified.
+
+---
+
+## Pages
+
+### בית
+https://suntiu-874597c1.zappy5.app
+מחפשים כוס שתייה מושלמת? ב-Suntiu תמצאו מגוון סוגי כוסות שתייה מעוצבות לכל משקה ואירוע. התאמה אישית, איכות גבוהה ועיצוב שמותיר רושם. בואו לגלות את הכוס שתהפוך כל שתייה לחוויה.
+
+### אומנות
+https://suntiu-874597c1.zappy5.app/craftsmanship
+מאחורי כל כוס עומדת אומנות. הכירו את תהליכי התחריט וההדפסה המותאמים אישית שלנו, שהופכים כוסות זכוכית ליצירות מופת. גלו את הקסם שבאומנות הזכוכית והזמינו עיצוב ייחודי משלכם.
+
+### מתנות ואירוח
+https://suntiu-874597c1.zappy5.app/gifting-hospitality
+מחפשים מתנה מקורית או רוצים לארח ברמה אחרת? קולקציית המתנות והאירוח של Suntiu מציעה כוסות זכוכית יוקרתיות, סטים מעוצבים ואפשרויות התאמה אישית. הפכו כל אירוע לבלתי נשכח עם המתנה המושלמת.
+
+### צור קשר
+https://suntiu-874597c1.zappy5.app/contact
+יש לכם רעיון לכוס מעוצבת? צרו קשר עם המומחים של Suntiu להדפסה ותחריט זכוכית מותאמים אישית. אנחנו כאן כדי להפוך את החזון שלכם למציאות. השאירו פרטים ונתחיל ביצירה הבאה שלכם.
+
+### Products
+https://suntiu-874597c1.zappy5.app/products
+המוצרים שלנו - Suntiu
+
+### Cart
+https://suntiu-874597c1.zappy5.app/cart
+עגלת הקניות שלך
+
+### Checkout
+https://suntiu-874597c1.zappy5.app/checkout
+תשלום
+
+### Login
+https://suntiu-874597c1.zappy5.app/login
+התחברות לקוחות
+
+### Account
+https://suntiu-874597c1.zappy5.app/account
+החשבון שלי
+
+### Order Success
+https://suntiu-874597c1.zappy5.app/order-success
+תודה על ההזמנה
+
+### Product Detail
+https://suntiu-874597c1.zappy5.app/product/:slug
+פרטי המוצר - Suntiu
+
+### Category
+https://suntiu-874597c1.zappy5.app/category/:slug
+מוצרים - Suntiu
+
+### תודה רבה | Suntiu
+https://suntiu-874597c1.zappy5.app/thank-you
+תודה שפנית אלינו. ההודעה שלך התקבלה בהצלחה ואנו נחזור אליך בהקדם עם מידע נוסף על סוגי כוסות שתייה ומוצרי זכוכית בהתאמה אישית.
+
+## Legal & Policy
+
+### Privacy Policy
+https://suntiu-874597c1.zappy5.app/privacy
+Information about how user data is collected, stored, and protected.
+
+### Terms & Conditions
+https://suntiu-874597c1.zappy5.app/terms
+Legal terms describing service usage, rights, and policies.
+
+### Accessibility Statement
+https://suntiu-874597c1.zappy5.app/accessibility
+Information about WCAG compliance and accessibility features.
+
+---
+
+## Products
+
+_No products are currently configured._
+
+---
+
+# Business Context (for LLM understanding)
+
+## About Suntiu
+A business focused on cups or glassware products. The exact nature — whether it's retail, custom printing, handmade artisan work, or wholesale — is not yet specified.
+
+## Target Audience
+- חובבי אירוח ביתי
+- קוני מתנות עסקיות
+- מסעדות וברים יוקרתיים
+
+## Industry
+Glassware / Drinkware
+
+---
+
+# Machine-readable feeds
+
+- Sitemap (XML): https://suntiu-874597c1.zappy5.app/sitemap.xml
+- Robots: https://suntiu-874597c1.zappy5.app/robots.txt
+- Flattened page text (for LLMs): https://suntiu-874597c1.zappy5.app/llms-full.txt
+- Products (JSON): https://suntiu-874597c1.zappy5.app/products.json
+- Products (Google Merchant RSS): https://suntiu-874597c1.zappy5.app/product-feed.xml
